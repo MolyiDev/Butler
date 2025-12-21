@@ -3,7 +3,7 @@ version = "1.0.0"
 authors = ["Molyi"]
 repository = "https://github.com/MolyiEZ/Butler"
 license = "MIT"
-includes = ["src/**/*.luau", "pesde.toml", "LICENSE", "README.md"]
+includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.luau"]
 
 [target]
 environment = "roblox"
