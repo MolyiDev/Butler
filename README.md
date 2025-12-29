@@ -11,7 +11,7 @@ pesde add molyi/butler
 ### Wally
 
 ```toml
-Butler = "molyidev/butler@^1.2.0"
+Butler = "molyidev/butler@^1.2.1"
 ```
 
 ## Why to use Butler?
