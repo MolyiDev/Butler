@@ -1,7 +1,7 @@
 name = "molyi/butler"
 version = "1.2.0"
 authors = ["Molyi"]
-repository = "https://github.com/MolyiEZ/Butler"
+repository = "https://github.com/MolyiDev/Butler"
 license = "MIT"
 includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.luau"]
 
