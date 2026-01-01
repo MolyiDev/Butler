@@ -1,4 +1,4 @@
-name = "molyi/butler"
+name = "molyidev/butler"
 version = "1.2.1"
 description = "Memory management library."
 authors = ["Molyi"]
